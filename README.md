@@ -31,12 +31,12 @@ Has the COVID-19 Pandemic had any impact on frequency of complaints or subway al
     
 ## Data
 For our study we used three data sources.
-* NYPD Complaint Data Historic | NYC Open Data (cityofnewyork.us)
+* [NYPD Complaint Data Historic | NYC Open Data (cityofnewyork.us)](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i)
    - This dataset includes all valid felony, misdemeanor, and violation crimes reported to the New York City Police Department (NYPD) from 2006 to the end of 2021. It also contains information about the location of the crime and the demographic information about the victim and suspect. The dataset includes years 2006-2022 with 35 columns and 7.83 million rows.
-   - Data Dictionary: https://data.cityofnewyork.us/api/views/qgea-i56i/files/ee823139-888e-4ad0-badf-e18e2674a9cb?download=true&filename=NYPD_Complaint_Historic_DataDictionary.xlsx 
-* NYC Transit Subway Station Map | State of New York
+   - [Data Dictionary](https://data.cityofnewyork.us/api/views/qgea-i56i/files/ee823139-888e-4ad0-badf-e18e2674a9cb?download=true&filename=NYPD_Complaint_Historic_DataDictionary.xlsx)
+* [NYC Transit Subway Station Map | State of New York](https://data.ny.gov/Transportation/NYC-Transit-Subway-Station-Map/6xm2-7ffy)
    - This data file provides a variety of information on subway station entrances and exits which includes but is not limited to: Division, Line, Station Name, Longitude and Latitude coordinates of entrances/exits.
-* Alert Archive (mymtaalerts.com)
+* [Alert Archive (mymtaalerts.com)](https://www.mymtaalerts.com/messagearchive.aspx)
    - This webpage is an archive of alerts released by the MTA. It contains a date, agency, subject, and message.
 
 ## Data-Processing
