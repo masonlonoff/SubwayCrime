@@ -4,10 +4,11 @@
 Sara Douglas, Fritz Grunert, Mason Lonoff, Susan Lu
 
 ## Table of Contents
+
 - [Problem Statement](#Problem Statement)
 - [Requirements](#Requirements)
 - [Data](#Data)
-- [Data Processing](#Data_Processing)
+- [Data Processing](#Data Processing)
 - [Results](#Results)
 
 ## Problem Statement
