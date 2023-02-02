@@ -21,10 +21,10 @@ Sara Douglas, Fritz Grunert, Mason Lonoff, Susan Lu
 ## Problem-Statement
    Since we live in New York City, the intersection of Subway delays and crime was interesting to us as it impacts our daily lives. After exploring the available data we decided to focus on answering the following questions:
 
-Are NYPD complaints and subway alerts/delays related?
-Does the distance to the nearest subway station affect crime?
-What crimes occur most when there are subway delays?
-Has the COVID-19 Pandemic had any impact on frequency of complaints or subway alerts/delays?
+* Are NYPD complaints and subway alerts/delays related?
+* Does the distance to the nearest subway station affect crime?
+* What crimes occur most when there are subway delays?
+* Has the COVID-19 Pandemic had any impact on frequency of complaints or subway alerts/delays?
 
 ## Requirements
 * Required python libraries for ETL and machine learning model
