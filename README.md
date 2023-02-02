@@ -40,6 +40,7 @@ For our study we used three data sources.
    - This webpage is an archive of alerts released by the MTA. It contains a date, agency, subject, and message.
 
 ## Data-Processing
+* To see the files we used to perform the ETL process, click [here](https://github.com/FritzIV/SubwayCrime/tree/main/ETL)
 NYC Transit Subway Station Map:
 The list of Subway station entrances and exits had multiple locations for each station thus we reduced each station to one location and a single set of coordinates. Additionally we condensed the original 12 train line columns to one column for readability. 
 
