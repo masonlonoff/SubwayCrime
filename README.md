@@ -26,6 +26,13 @@ Has the COVID-19 Pandemic had any impact on frequency of complaints or subway al
     - scikit-learn
     - selenium
     - beautifulsoup4
+    from gensim import corpora, models
+from gensim.corpora import Dictionary
+import gensim
+from nltk.corpus import stopwords
+from nltk.corpus import words
+from nltk.stem import WordNetLemmatizer
+from nltk.stem.porter import PorterStemmer
     
 ## Data
 For our study we used three data sources.
