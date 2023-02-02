@@ -60,3 +60,6 @@ Our study focused on the years 2018-2021, reducing the row count to around 2 mil
 
 Joining Data Spatially and Temporally:
 Firstly we joined the complaints data with the subway station data by utilizing the coordinates provided in each dataset. For each complaint we added a column of the closest train station, the distance to that station and the train lines stopping at that station. To determine the distance between the complaint and the closest station we utilized the Haversine formula which accounts for the curvature of the earth. Each complaint is then linked temporally to delays. For each station that a delay affects, if a complaint is linked to that station within two hours after the delay, then that complaint is joined on the delay.
+
+## Results
+[Project Report](https://github.com/FritzIV/SubwayCrime/blob/main/Official%20Report.pdf)
