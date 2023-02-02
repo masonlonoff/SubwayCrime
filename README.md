@@ -5,14 +5,14 @@ Sara Douglas, Fritz Grunert, Mason Lonoff, Susan Lu
 
 ## Table of Contents
 
-- [Problem Statement](#Problem Statement)
+- [Problem Statement](#Problem-Statement)
 - [Requirements](#Requirements)
 - [Data](#Data)
-- [Data Processing](#Data Processing)
+- [Data Processing](#Data-Processing)
 - [Results](#Results)
 
-## Problem Statement
-	Since we live in New York City, the intersection of Subway delays and crime was interesting to us as it impacts our daily lives. After exploring the available data we decided to focus on answering the following questions:
+## Problem-Statement
+   Since we live in New York City, the intersection of Subway delays and crime was interesting to us as it impacts our daily lives. After exploring the available data we decided to focus on answering the following questions:
 
 Are NYPD complaints and subway alerts/delays related?
 Does the distance to the nearest subway station affect crime?
@@ -37,7 +37,7 @@ This data file provides a variety of information on subway station entrances and
 * Alert Archive (mymtaalerts.com)
 This webpage is an archive of alerts released by the MTA. It contains a date, agency, subject, and message.
 
-## Data Processing
+## Data-Processing
 NYC Transit Subway Station Map:
 	The list of Subway station entrances and exits had multiple locations for each station thus we reduced each station to one location and a single set of coordinates. Additionally we condensed the original 12 train line columns to one column for readability. 
 
