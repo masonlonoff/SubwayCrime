@@ -4,9 +4,9 @@
 Sara Douglas, Fritz Grunert, Mason Lonoff, Susan Lu
 
 ## Folder Descriptions
-ETL: Holds our ETL files
-MachineLearning: Holds the files for the two ML models we created
-PowerBI_Reports: Holds the visualizations were created in PowerBI. Note: Some of our PowerBI reports were too large to be uploaded directly to GitHub. See the                        "Releases" section to find the remaining visualizations.
+-ETL: Holds our ETL files.
+-MachineLearning: Holds the files for the two ML models we created.
+-PowerBI_Reports: Holds the visualizations were created in PowerBI. Note: Some of our PowerBI reports were too large to be uploaded directly to GitHub. See the                        "Releases" section to find the remaining visualizations.
 
 ## Table of Contents
 
